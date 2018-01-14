@@ -3,7 +3,7 @@
 # Mühendislik Projesi Dersi Ödev 2
 FULL‐STACK WEB DEVELOPER / UYGULAMA GELİŞTİRME GİRİŞ
 ------------------------------
-20 Ocak 2018	 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
+20 Ocak 2018	  [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
 
 Recep KARADEMİR
 ____________________________________________________________________________________________________________________________________
