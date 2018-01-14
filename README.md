@@ -1,4 +1,4 @@
-![Search logo](https://github.com/recepkarademir/Computer-Engineering-Project-2/blob/master/2015141003_Recep_Karademir/GitHub%20Images/php-crud.jpg)
+![Search logo](https://raw.githubusercontent.com/recepkarademir/Computer-Engineering-Project-2/master/2015141003_Recep_Karademir/GitHub%20Images/php-crud.jpg)
 
 # Mühendislik Projesi Dersi Ödev 1
 HASH TABLOSUNDA KELİME ARAMA
