@@ -1,6 +1,6 @@
 ![Search logo](https://raw.githubusercontent.com/recepkarademir/Computer-Engineering-Project-2/master/2015141003_Recep_Karademir/GitHub%20Images/php-crud.jpg)
 
-# Mühendislik Projesi Dersi Ödev 1
+# Mühendislik Projesi Dersi Ödev 2
 HASH TABLOSUNDA KELİME ARAMA
 ------------------------------
 1 Aralık 2017	 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
@@ -46,7 +46,7 @@ Aranan kelime fonksiyonlar yardımıyla global string dizinde aranacaktır.
 Çakışan kelimeler çıktı olarak verilecektir.
 Örneğin 52 değeri arandığında çıktı:
 
-![Hash_Table logo](https://www.sysadmins.lv/content/images/articles/hashtable-behind-the-scenes/linear-probing-search.png)
+![Hash_Table logo](https://github.com/recepkarademir/Computer-Engineering-Project-2/blob/master/2015141003_Recep_Karademir/GitHub%20Images/CRUD.jpg)
 
       Aranan değer 6. indiste bulunmaktadır.
       Kelime 5 kez boş yer aramış.  5. denemedeki yere yerleşmiş. 
