@@ -1,9 +1,9 @@
-![Search logo](https://github.com/recepkarademir/Computer-Engineering-Project-2/blob/master/2015141003_Recep_Karademir/GitHub%20Images/php-crud%20(2).jpg)
+![Search logo](https://github.com/recepkarademir/Computer-Engineering-Project-2/blob/master/2015141003_Recep_Karademir/GitHub%20Images/php-crud%20(2).jpg) [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
 
 # Mühendislik Projesi Dersi Ödev 2
 FULL‐STACK WEB DEVELOPER / UYGULAMA GELİŞTİRME GİRİŞ
 ------------------------------
-20 Ocak 2018	  [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
+20 Ocak 2018
 
 Recep KARADEMİR
 ____________________________________________________________________________________________________________________________________
