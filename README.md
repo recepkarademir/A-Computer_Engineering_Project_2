@@ -101,6 +101,8 @@ görebilirsiniz. Ben projemde GithubDesktop aracını kullanıyorum.
 
 
 
+
+
 //GithubDesktop Temel Kullanımı
 
 GithubDesktop'ı bilgisayarınıza kurun ve  github.com'dan Github hesabı açıp yeni bir repository oluşturun.
@@ -137,8 +139,6 @@ Benim görselleştirme stil dosyam cs.css 'dir.
 Sitenin planlandığı şekilde çalışıp çalışmadığı kontrol edilir. 
 
 Hatalar eksiklikler giderilir. Site için gerekli açıklamalar ve sadeleştirmeler yapılır.
-
-
 
 
 
