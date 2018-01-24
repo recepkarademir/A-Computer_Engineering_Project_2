@@ -23,7 +23,7 @@ Back‐End olarak PHP(Html işaretleme dili de kullanıldı) ve server tarafınd
 
 Projede kullanılan araçlar :GIT, Atom, Notepad++,Gitedesktop,XAMPP,WAMPSERVER
 
-
+------------------------------
 [D]URUM [A]DET [K]ONUM Projesi
 
 Site; giriş yapma, kayıt olma, eşya ekleme, eşya silme, eşya güncelleme ve eşya listeleme yapabilmektedir.
@@ -68,7 +68,7 @@ Giriş yapan kullanıcı etkileşime geçtiği eşyanın son durumunu sisteme gi
 Eşyaların durumu ve konumu böylelikle kontrol altında tutulmuş olur.
 
 
-
+------------------------------
 Proje hazırlama aşaması:
 
 Genel hatlarla ne yapılacak ve nasıl bir güzergahla yapılacak belirlenmeli.
@@ -99,10 +99,7 @@ Adres kısmına localhost/phpmyadmin/   yazdığınızda phpmyadmin çalışacak
 Github'ı versiyon kontrol sistemi aracı olarak tercih edebilir ve kodunuzda yaptığınız her değişikliği 
 görebilirsiniz. Ben projemde GithubDesktop aracını kullanıyorum.
 
-
-
-
-
+------------------------------
 GithubDesktop Temel Kullanımı
 
 GithubDesktop'ı bilgisayarınıza kurun ve  github.com'dan Github hesabı açıp yeni bir repository oluşturun.
