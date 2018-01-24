@@ -103,7 +103,7 @@ görebilirsiniz. Ben projemde GithubDesktop aracını kullanıyorum.
 
 
 
-//GithubDesktop Temel Kullanımı
+GithubDesktop Temel Kullanımı
 
 GithubDesktop'ı bilgisayarınıza kurun ve  github.com'dan Github hesabı açıp yeni bir repository oluşturun.
 
