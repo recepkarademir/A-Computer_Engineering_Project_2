@@ -59,7 +59,7 @@ Güncellemeler yapılmasa dahi, eşya temin edildiğinde sisteme girilmişse, e�
 
 UYGULAMA
 ------------------------------
-
+![logo](https://raw.githubusercontent.com/recepkarademir/Computer-Engineering-Project-2/master/GitHub%20Images/CRUD.jpg)
 Php, html ve css kullanılarak hazırlanan site, eşya durum konrolü yetkisini giriş yapan kullanıcıya verir.
 
 Giriş yapan kullanıcı etkileşime geçtiği eşyanın son durumunu sisteme girmelidir.
@@ -139,7 +139,7 @@ Hatalar eksiklikler giderilir. Site için gerekli açıklamalar ve sadeleştirme
 
 
 
-![logo](https://raw.githubusercontent.com/recepkarademir/Computer-Engineering-Project-2/master/GitHub%20Images/CRUD.jpg)
+
 
 ___________________________________________________________________________________________________________________________________
 
