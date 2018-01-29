@@ -43,13 +43,13 @@ Bu proje evde veya iş yerinde var olan fakat yeri, adedi ve durumu bilinmeyen e
 
 Bazen, ihtiyacımız olan eşyaya sahip olduğumuzu biliriz fakat eşyanın yerini,durumunu ve adedini unuturuz.
 
-Bu ve buna benzer durumlar eşyanın yeri, durumu ve adedi güncel olarak tutalarak çözülebilir.
+Bu ve buna benzer durumlar eşyanın yeri, durumu ve adedi güncel olarak tutularak çözülebilir.
 
 Örneğin, bir depoda eşyaların üzerlerine yerleştirilen etiket ile eşyanın bilgileri ve anlık hareketi etiket okuyucuları tarafından algılanarak bu sisteme otomatik girilirse, eşyaların durumu sistemde güncel olarak kontrol edilebilir.
 
 Hatta, eşya temin edildiği an bir kez sisteme kaydedilmesi bile bazen yeterli olacaktır.
 
-Yani kullanılan eşya alındığı yere bırakıldığında veya kullanılıp atık olduğunda, ikinci kez kullanılmak istenilirse sistemdeki son konumuna bakıp eşyanın bittiği veya kullanılmış olduğu sistem güncellenmeden ve olası diğer yerlere bakılmadan bile bilinebilir.
+Yani kullanılan eşya alındığı yere bırakıldığında veya kullanılıp atık olduğunda, ikinci kez kullanılmak istenilirse, sistemdeki son konumuna bakıp eşyanın bittiği veya kullanılmış olduğu sistem güncellenmeden ve olası diğer yerlere bakılmadan bile bilinebilir.
 
 Sistemin tam olarak sorunsuz çalışması için etkileşime geçilen eşyayla ilgili güncelleme yapılmalıdır.
 
