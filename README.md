@@ -21,7 +21,7 @@ Uygulamamda Front‐End olarak CSS tercih ettim. Database kısmında MySql
 
 Back‐End olarak PHP(Html işaretleme dili de kullanıldı) ve server tarafında Apache kullandım.
 
-Projede kullanılan araçlar :GIT, Atom, Notepad++,Gitedesktop,XAMPP,WAMPSERVER
+Projede kullanılan araçlar :GIT, Atom, Notepad++,Gitdesktop,XAMPP,WAMPSERVER
 
 ------------------------------
 [D]URUM [A]DET [K]ONUM Projesi
