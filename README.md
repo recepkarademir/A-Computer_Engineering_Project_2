@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/recepkarademir/Computer-Engineering-Project-2/master/GitHub%20Images/php-crud%20(2).jpg) [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/fastlane/fastlane/blob/master/LICENSE)
+![logo](https://raw.githubusercontent.com/recepkarademir/Computer-Engineering-Project-2/master/GitHub%20Images/php-crud%20(2).jpg) [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/recepkarademir/A-Computer_Engineering_Project_2/blob/master/LICENSE)
 
 # Mühendislik Projesi Dersi Ödev 2
 FULL‐STACK WEB DEVELOPER / UYGULAMA GELİŞTİRME GİRİŞ
