@@ -13,10 +13,6 @@ ________________________________________________________________________________
 
 Hazırladığım web uygulaması front‐end ve back‐end geliştirme süreçlerini içerir.
 
-Geliştirdiğim uygulamayı yaklaşık ̴70 saatte hazırladım.
-
-Uygulama geliştirmeye başlamadan önce CSS, PHP ve HTML bilgim sıfırdı fakat proje bittikten sonra temel bilgiler ve plan doğrultusunda proje tamamlayabilme yetisi kazandım.
-
 Uygulamamda Front‐End olarak CSS tercih ettim. Database kısmında MySql
 
 Back‐End olarak PHP(Html işaretleme dili de kullanıldı) ve server tarafında Apache kullandım.
@@ -71,11 +67,9 @@ Eşyaların durumu ve konumu böylelikle kontrol altında tutulmuş olur.
 ------------------------------
 Proje hazırlama aşaması:
 
-Genel hatlarla ne yapılacak ve nasıl bir güzergahla yapılacak belirlenmeli.
-
 Atom, Notepad++, Sublime Text veya başka kod editörü(Dreamweaver vs.) ile yazacağınız kodları düzenleyebilirsiniz.
 
-Ben aktif olarak Notepad++ kullanacağım. 
+Ben editör olarak Notepad++ kullanacağım. 
 
 Projemizde sunucu ve veritanı kullanılacağından WampServer veya Xampp gereklidir. 
 
@@ -86,7 +80,7 @@ program kullanmanız gerekir.
 
 İsterseniz Apache'yle MySQL'i ayrı olarak da kurabilirsiniz. Projemde WampServer kullanacağım.
 
-İsterseniz Xampp da kullanabilirsiniz(WampServer ve Xampp aynı anda kullanamazsınız). 
+İsterseniz Xampp da kullanabilirsiniz(WampServer ve Xampp aynı anda kullanamanız önerilmez). 
 
 Xampp için C:\wamp64\www\  yerine  C:\xampp\htdocs\ konumunu proje klasörü olarak kullanmalısınız.
 
@@ -108,7 +102,7 @@ GithubDesktop uygulamasında File sekmesinden Clone repository'e tıklayın. Git
 
 Local Path kısmından C:\wamp64\www\repositoryadı olacak şekilde seçin ve klonlayın. 
 
-Artık www klasörü içerisindeki klasörde yapılacak her değişiklik GithubDesktop tarafından algılanacak ve changes kısmından commit ettiğinizde kaydedilecektir. Bazen değişiklikleri Push yapmayı unutmayın. 
+Artık www klasörü içerisindeki klasörde yapılacak her değişiklik GithubDesktop tarafından algılanacak ve changes kısmından commit ettiğinizde kaydedilecektir. Yaptığınız değişikleri belli aralıklarla Gihub'a push etmeyi unutmayın. 
 
 Push origin yazan yere tıkladığınızda değişiklikler Github hesabınıza yüklenecektir.
 
@@ -135,8 +129,7 @@ Benim görselleştirme stil dosyam cs.css 'dir.
 
 Sitenin planlandığı şekilde çalışıp çalışmadığı kontrol edilir. 
 
-Hatalar eksiklikler giderilir. Site için gerekli açıklamalar ve sadeleştirmeler yapılır.
-
+Hatalar eksiklikler giderilir. Site için gerekli açıklamalar ve sadeleştirmeler yapılarak proje tamamlanır.
 
 
 ___________________________________________________________________________________________________________________________________
