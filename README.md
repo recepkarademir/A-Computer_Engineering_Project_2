@@ -144,3 +144,5 @@ www.recepkarademir.com
 https://recepkarademir.blogspot.com.tr
 
 https://recepkarademir.wordpress.com
+
+BU PROJE İÇİN KULLANILABİLİRLİK SEVİYESİ: 4/10
