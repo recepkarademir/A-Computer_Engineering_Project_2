@@ -137,8 +137,6 @@ ________________________________________________________________________________
 İletişim
 ------------------------------
 
-2015141003@cumhuriyet.edu.tr
-
 https://recepkarademir.blogspot.com.tr
 
 https://recepkarademir.wordpress.com
